@@ -4,5 +4,5 @@ Repository containing portfolio of data science projects completed by me for aca
 #### LinkedIn : [Lasna P](https://www.linkedin.com/in/lasnausman/)
 
 ## PROJECTS
-### [Loan Lending]()<img src="https://th.bing.com/th/id/OIP.tMlgFbyyA7524W0O8llNTgHaFf?pid=Api&rs=1" width="200" ALIGN="left"/> 
+### [Loan Lending](https://github.com/LasnaP/Data-Science-Portfolio/tree/master/Loan%20Lending%20case%20study-%20Analysis)<img src="https://th.bing.com/th/id/OIP.tMlgFbyyA7524W0O8llNTgHaFf?pid=Api&rs=1" width="200" ALIGN="left"/> 
 This project aimes **Identify top 5 features which will be helpful for lending a loan.** After the data cleaning, I did Uni-variate and Bi-variate analysis on various features. Finally The top features identified Based on the behaviour and independent nature of all attributes toward Loan status.
